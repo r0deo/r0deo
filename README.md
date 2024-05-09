@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ali.izzaldin7@gmail.com**
 
-- ⚡ Fun fact **I'm always for facts**
+- ⚡ Fun fact **I'm always looking for facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
