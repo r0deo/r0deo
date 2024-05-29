@@ -5,10 +5,8 @@
 <h3 align="center">A great full-stack developer from Iraq</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0deo&label=Profile%20views&color=0e75b6&style=flat" alt="r0deo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0deo" alt="r0deo" /></a> </p>
-
+ 
+ 
 - 🌱 I’m currently learning **in a full-stack bootcamp from Re:coded**
 
 - 💬 Ask me about **anything relating to web development**
@@ -27,4 +25,4 @@
 
 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0deo&" alt="r0deo" /></p>
+ 
