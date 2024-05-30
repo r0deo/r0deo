@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="100%" height="50%" alt="GIF via Giphy" />
+<img src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" width="100%" height="50%" alt="GIF via Giphy" />
 
 
  <h1 align="center">Hi 👋, I'm Ali Izzaldin</h1>
