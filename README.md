@@ -1,5 +1,6 @@
 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFhdzF0N2ppaHJrcnZvaHRxd2ZmYzJqazIwMXlnN2N5aWs4Nnd5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="100%"  height="50%"/>
+<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="100%" height="50%" alt="GIF via Giphy" />
+
 
  <h1 align="center">Hi 👋, I'm Ali Izzaldin</h1>
 <h3 align="center">A great full-stack developer from Iraq</h3>
