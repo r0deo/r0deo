@@ -3,7 +3,7 @@
 
 
  <h1 align="center">Hi 👋, I'm Ali Izzaldin</h1>
-<h3 align="center">A great full-stack developer from Iraq</h3>
+<h3 align="center">A great Web developer from Iraq</h3>
 
 
  
